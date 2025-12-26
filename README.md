@@ -57,8 +57,7 @@ I have worked on **30+ professional web development projects**, using modern tec
 
 ## 👗 E-Commerce
 
-- [Fascino Dresses by Shyn](https://www.fascinodressesbyshyn.com/)
-- [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – React.js-based product showcase and branding
+- [Lark Brennet ](https://larkbrennet.com/) – React.js-based product showcase and branding
 - [Supera](https://supera.in/)
 - [FeelGoodNatures](https://feelgoodnatures.com/)
 - [lagompatisserie](https://lagompatisserie.com/)
