@@ -36,7 +36,7 @@ I have worked on **30+ professional web development projects**, using modern tec
 
 ## 🏢 Laravel & Blade Projects
 
-- [Mashcall](https://mashcall.com/) - Frontend Livewire
+- [Mashcall](https://mashcall.com/) 
 - [Reverd](https://reverd.earth/)
 - [Minerva College of Catering](https://michm.in/)
 - [Robotico Digital](https://roboticodigital.com/)
