@@ -1,14 +1,6 @@
 # 🌐 My Web Development Portfolio
 
-I have worked on **30+ professional web development projects**, using modern technologies including **React.js, Angular, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
-
----
-
-## 📌 Featured Projects
-
-### 1. [Luxury Holidays Direct](https://www.luxuryholidaysdirect.com/)
-**Tech Stack:** Angular 15/16, REST API, SSR  
-A dynamic luxury travel booking platform with advanced API integrations and SSR for high performance.
+I have worked on **30+ professional web development projects**, using modern technologies including **React.js, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap**, and more. Below is a curated list of some of the projects I’ve developed, designed, or contributed to.
 
 ---
 
@@ -32,7 +24,7 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 
 ---
 
-## ▲ Next.js Projects
+## ▲ Next.js Projects - Laravel backend
 - [Froth TestOps](https://frothtestops.com/)
 - [Technox Technologies](https://technox.in/)
 - [TakeFit Gym](https://takefitgym.com/)
@@ -44,7 +36,7 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 
 ## 🏢 Laravel & Blade Projects
 
-- [Mashcall](https://mashcall.com/)
+- [Mashcall](https://mashcall.com/) - Frontend Livewire
 - [Reverd](https://reverd.earth/)
 - [Minerva College of Catering](https://michm.in/)
 - [Robotico Digital](https://roboticodigital.com/)
