@@ -54,18 +54,6 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 
 ---
 
-## 🧘 WordPress & Business Sites
-
-- [Cosmic Yoga Hub](https://cosmicyogahub.com/)
-- [Technox Technologies](https://technox.in/)
-- [Minerva Academy](https://minervaacademyofeducation.com/)
-- [Srimuruganthirumana Mahal](https://srimuruganthirumanamahal.com/)
-- [Takefit Gym](https://takefitgym.com/)
-- [Tach Electronics](https://tachelectronics.com/)
-- [Shrivenkateshwara Diabetic Care](https://shrivenkateshwaradiabeticcare.com/)
-
----
-
 ## 🏘 Real Estate & Services
 
 - [Classic Escapes](https://classicescapes.in/)
@@ -81,6 +69,8 @@ A dynamic luxury travel booking platform with advanced API integrations and SSR 
 - [Lark Brennet (Dev)](https://dev.larkbrennet.com/) – React.js-based product showcase and branding
 - [Supera](https://supera.in/)
 - [FeelGoodNatures](https://feelgoodnatures.com/)
+- [lagompatisserie](https://lagompatisserie.com/)
+- [mangalammasala](https://mangalammasala.com/)
 
 ---
 
